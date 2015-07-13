@@ -1,0 +1,32 @@
+body {
+    color: #caa;
+    background-color: rgb(25,25,25);
+}
+
+.skin {
+    background-color: rgba(0,0,0,0.75);
+}
+
+main {
+	background-color: rgb(12,12,24);
+}
+
+pre,code {
+    background-color: rgba(0,0,0,0.33);
+}
+
+a {
+    color: #abb;
+}
+
+a:hover {
+    color: #0ff;
+}
+
+footer hr {
+	background-color: #caa;
+}
+
+.archive-link, .archive-link h3, .archive-link time {
+	background-color: rgb(12,24,24);
+}

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<article>
+        <header>
+            <h2>{{ page.title }}</h2>
+            <span class="date"><time datetime="{{page.date|date:"%F"}}">{{page.date|date:"%-d %B %Y"}}</time></span><br/>
+        </header>
+        <div class="entry">{{ content }}</div>
+        <div class="comments">
+        	<div id="disqus_thread"></div>
+			<p id="commentloader"><a href="#disqus_thread" onclick="disqus();return false;" class="commentcount" title="Load Comments"></a></p>
+        </div>
+
+        <footer><!-- additional info --></footer>
+
+</article>
+

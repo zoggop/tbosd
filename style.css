@@ -1,0 +1,215 @@
+body {
+    font-size: 17px;
+    /*font-family: "Source Sans Pro", "Open Sans", "Verdana", "Segoe UI", "Helvetica Neue", "Tahoma", "Lucida Grande", sans-serif;*/
+    font-family: "Alegreya Sans", sans-serif;
+    line-height: 1.4118em;
+    margin: 0px;
+}
+
+p {
+    margin: 0 0 1em 0;
+}
+
+.skin {
+    min-height: 100vh;
+}
+
+.torso {
+    max-width: 744px;
+    margin-left: auto;
+    margin-right: auto;
+    padding:4px;
+    position:relative;
+}
+
+main {
+    display: block;
+    padding: 12px;
+    margin-top: 3em;
+}
+
+h1>a,h2>a {
+    text-decoration: none;
+}
+
+h1,h2,h3,h4,time {
+   font-family: "Alegreya", "Georgia", "Times New Roman", serif;
+}
+
+time {
+    font-style: italic;
+}
+
+@media screen and (max-width: 479px) {
+    h1 a::after { 
+        font-family: "tv1";
+        font-weight: normal;
+        content: "\E809";
+        font-size: 28px;
+    }
+}
+
+@media screen and (min-width: 480px) and (max-width: 751px) {
+    h1 a::after { 
+        font-family: "tv1";
+        font-weight: normal;
+        content: "\E80A";
+        font-size: 46px;
+    }
+}
+
+
+@media screen and (min-width: 752px) {
+    h1 a::after {
+       content: "The Blue Screen of Death";
+       font-size: 78px;
+       font-weight: 400;
+       font-style: italic;
+    }
+}
+
+hr {
+    text-align: center;
+    border: 0;
+    color:inherit;
+}
+
+article hr::after {
+    font-family: tv1;
+    font-size: 24px;
+    content: "\E806";
+    letter-spacing: 0.25em;
+}
+
+hr::after {
+    font-family: tv1;
+    font-size: 24px;
+    content: "\E806\E806";
+    letter-spacing: 0.25em;
+}
+
+pre {
+    margin-left: 30px;
+    padding: 5px;
+    width: 80%;
+}
+
+code {
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+table {
+    border: none;
+}
+
+td {
+    padding-left: 20px;
+}
+
+.torso>header {
+    padding: 12px 12px 0 12px;
+}
+
+nav {
+    display: block;
+    font-size:24px;
+    padding: 0 12px;
+}
+
+nav a {
+    margin-right: 12px;
+}
+
+footer {
+    font-size: 14px;
+    margin-top: 50px;
+}
+
+footer hr {
+    height: 1px;
+}
+
+footer hr::after {
+    content: none;
+}
+
+article:first-of-type {
+    margin: 0 0 3em 0;
+}
+
+article {
+    margin: 3em 0;
+}
+
+article .entry img {
+    display: block;
+    margin: 1em auto;
+    max-width: 100%;
+}
+
+article header h2 {
+    margin: 0;
+}
+
+article header {
+    margin-bottom: 1em;
+}
+
+.more {
+    display: block;
+    text-align: right;
+}
+
+.color-toggle {
+    position: absolute;
+    right: 8px;
+}
+
+#paginator {
+    font-size: 24px;
+}
+
+.xmirror::before {
+    transform: scale(-1, 1);
+}
+
+.comments {
+    text-align: right;
+}
+
+.commentcount {
+    font-size: 24px;
+    font-style: italic;
+    text-decoration: none;
+}
+
+.commentcount::after {
+    font-family: "tv1";
+    content: "\E808"
+}
+
+#commentloader a {
+    padding: 8px;
+    display: block;
+    border: 1px dashed;
+}
+
+.archive-link {
+    display: inline-block;
+    width: 222px;
+    margin: 8px;
+    text-decoration: none;
+}
+
+.archive-link h3 {
+    display: inline-block;
+    margin: 0 2em 0 0;
+    padding: 0 0.2em;
+}
+
+.archive-link time {
+    display: inline-block;
+    float: right;
+    padding: 0 0.2em;
+}
