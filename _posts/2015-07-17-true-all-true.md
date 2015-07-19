@@ -3,7 +3,7 @@ layout: post
 title: True, All True
 ---
 
-Maybe a year is not enough time to grow fonder, but the ominous helicopter pans over industrial cityscape (instead of flat Mississipi marsh) only had me going "ah, right, this." But I lie. In the first episode they inspect a murder victim's home. The camera lingers over his erotic wall art and sculptures like it does the grim industrial cityscape, like a hand-carved wooden cock (ha ha?) is as disturbing as it gets. Later, in the [requisite](http://uproxx.com/tv/2015/07/every-episode-of-true-detective/) car conversation scene, one of the detectives says "That shit in his house, I think he's into a lot of stuff we're just scratching."
+Maybe a year is not enough time to grow fonder, but the ominous helicopter pans over industrial cityscape (instead of flat Mississipi marsh) only had me going "ah, right, this." But I lie. In the first episode they inspect a murder victim's home. The camera lingers over his erotic wall art and sculptures like the helicopter does the smokestacks, like a hand-carved wooden cock (ha ha?) is as disturbing as it gets. Later, in the [requisite](http://uproxx.com/tv/2015/07/every-episode-of-true-detective/) car conversation scene, one of the detectives says "That shit in his house, I think he's into a lot of stuff we're just scratching."
 
 And then the other dick gets shot in the dick with a shotgun. That seems just about the M.O. of the show regarding sex, a scattershot to the groin.
 
