@@ -71,7 +71,8 @@ time {
 hr {
     text-align: center;
     border: 0;
-    color:inherit;
+    color: inherit;
+    margin: 2em;
 }
 
 article hr::after {
