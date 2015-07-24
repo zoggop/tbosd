@@ -13,6 +13,6 @@ Reading about *True Detective* is like sorting through the princess's many mattr
 
 I know few things--a few things: I know that contrary to my expectations (or maybe, secretly, it wasn't?), I love to hate it, and that it seems incredibly boring to love to hate it, because who doesn't, because apparently one must differ. I know that Vince Vaughn looks like a Chihuahua, which is confusing, because I'm fond of Chihuahuas, and that, as a friend pointed out, the Chihuahua pictured below has an expression that one can find (only?) on *True Detective*.
 
-![Grim Chihuahua]({{ site.baseurl }}/resources/img/chihuahua_non_smile.jpg "Chihuahua")
+![Grim Chihuahua]({{ site.baseurl }}/res/img/chihuahua_non_smile.jpg "Chihuahua")
 
 I know that the show has a unique quality to its dialogue that I can neither describe nor fail to find ridiculous. I don't know anything further, but maybe the dialogue is like an overheard conversation I have an irrepressible urge to tweet or text, because otherwise I can't quite laugh, and instead spin like the proverbial self in the grave. It exerts some kind of quantum force on me. I know that many things make me giggle if know them, but I delude myself because actually I do not.
