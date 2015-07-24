@@ -146,7 +146,7 @@ article {
 article .entry img {
     display: block;
     margin: 1em auto;
-    max-width: 100%;
+    width: 100%;
 }
 
 article .entry img + em {
