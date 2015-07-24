@@ -150,7 +150,10 @@ article .entry img {
 }
 
 article .entry img + em {
-    margin-top: 0px;
+    display: block;
+    text-align: center;
+    margin-top: -0.5em;
+    margin-bottom: 2em;
 }
 
 article header h2 {

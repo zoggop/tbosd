@@ -6,15 +6,15 @@ layout: post
 Ever since Ellie Arroway made *Contact* with her father/alien, we were doomed. (If I were less ignorant, I'm sure I would blame something much earlier.) Daughters would be forever crossing time and space to find their fathers on the big screen. The probably intentional riff on Ellie's encounter was *Interstellar*'s infinite father-daughter loop, in which they both reach through inanimate objects to the other (father author, daughter extremely generous reader). And now there is *Ant-Man*, in which a daughter's voice cuts through her father's unimaginable abstraction of being the size of a quark. The older father, the inventor of ensmallening, calls this far-away place "the quantum realm", and quantum is these days shorthand for emotional. It is the quantum, in *Interstellar*, that's supposed to explain love.
 
 ![Scott & Cassie's Filial Infinitude][1]
-*All all of hims can hear is her voice*
+*All all of hims can hear is her voice.*
 
 ![Cooper & Murph Through a Bookshelf][2]
-*Through a bookshelf, darkly*
+*Through a bookshelf, darkly.*
 
 In plots like these, daughters are moral compasses. Like a dog, if your daughter likes you it's because you're a good person at your core. A daughter knows. A hurt daughter will chastise you for doing bad things or for lying; she might even date someone you don't like, but she will always come back to you, her father. She hurts because you did something wrong, and never any other reason. I say "you" because it's lately a daughter's father whose head we're invited into. *Contact* concerns the frustrated emotional landscape of Ellie, but she travels across the cosmos to more or less get her head shrunk: At the other end of the galaxy she discovers that her psychic core is her father (played by David Morse, that grossest of smug father figures, which is something *House M.D.* knew) talking a lot while witholding his certain and extensive knowledge of the universe.
 
 ![Ellie's Dad/Alien On The Eternal Beach][3]
-*Dads all the way down*
+*Dads all the way down.*
 
 The father of the cherry-colored stuff that makes *Ant-Man*, Hank Pym, knows that this stuff, if let out from the control of his deepest household vault (where Scott the burglar hoped to find the family jewels) would "change the substance of reality." This is the post-9/11 *Eraserhead*. His nemesis, who I can't stop thinking of as Alicia Florrick's somewhat impotent courtroom rival, which explains why he's nuts, is crafting a copy of shrink-o-grow in yellow, and plans to sell it around the world as the ultimate in excessive force to keep the world safe. The hoky commercial in which he reveals his plans is a lot like a cutscene from *Fallout*: the better-living-through-science aesthetics of the 50s and a heavy-handed satire of the ethos of 21st century states.
 
