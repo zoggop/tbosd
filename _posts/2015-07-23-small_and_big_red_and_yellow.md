@@ -1,5 +1,5 @@
 ---
-title: Daddy's Issue: Small and Big, Red and Yellow
+title: Daddy's Issue&#58; Small and Big, Red and Yellow
 layout: post
 ---
 
