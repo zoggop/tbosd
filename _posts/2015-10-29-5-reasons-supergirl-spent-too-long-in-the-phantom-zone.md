@@ -15,6 +15,12 @@ layout: post
 
 5\. An alien telling Supergirl "on my planet, females bow before males." At first I was pleased that extreme misogyny has become the go-to shorthand for disposable bad guy. But my friend points out that the show has to look beyond Earth to find misogyny (and indeed patriarchy). I hope Kara's aunt succeeds in her (evil?) plan to rule Earth. This place is the worst.
 
-![The End of Earth][1]
+![Future Earth Queen][1]
 
-[1]: {{ site.baseurl }}/res/img/melancholia-end_of_earth.png "Please Leave, Superman"
+or
+
+![Destruction of Earth][2]
+
+[1]: {{ site.baseurl }}/res/img/supergirl-rule_earth.png "Forward 2015"
+
+[2]: {{ site.baseurl }}/res/img/melancholia-end_of_earth.png "Stop Helping Earth"
