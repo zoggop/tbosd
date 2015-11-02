@@ -9,11 +9,11 @@ layout: post
 
 2b\. Criminal waste of Calista Flockhart.
 
-3\. A waitress at the diner where the bad alien man is says "can you believe it? A female hero. Nice for my daughter to have someone like that to look up to." Did the audience roll their eyes a lot at the chorus in ancient Greece?
+3\. A waitress at a diner says "can you believe it? A female hero. Nice for my daughter to have someone like that to look up to." Did the audience roll their eyes a lot at the chorus in ancient Greece?
 
 4\. "She's not strong enough." "Why? Because she's just a girl?" This is a first for me: the only instance I've seen in which calling it sexist is actually more sexist.
 
-5\. An alien tells Supergirl "on my planet, females bow before males." At first I was pleased that extreme misogyny has become the go-to shorthand for disposable bad guy. But my friend points out that the show has to look beyond Earth to find misogyny (and indeed patriarchy). I hope Kara's aunt succeeds in her (evil?) plan to rule Earth. This place is the worst.
+5\. An alien man tells Supergirl "on my planet, females bow before males." At first I was pleased that extreme misogyny has become the go-to shorthand for disposable bad guy. But my friend points out that the show has to look beyond Earth to find misogyny (and indeed patriarchy). I hope Kara's aunt succeeds in her (evil?) plan to rule Earth. This place is the worst.
 
 ![Future Earth Queen][1]
 
