@@ -9,7 +9,7 @@ layout: post
 
 2b\. Criminal waste of Calista Flockhart.
 
-3\. A waitress at a diner says "can you believe it? A female hero. Nice for my daughter to have someone like that to look up to." Did the audience roll their eyes a lot at the chorus in ancient Greece?
+3\. A waitress at a diner says "can you believe it? A female hero. Nice for my daughter to have someone like that to look up to." This sounds as mean-spiritedly satirical as something Ryan Murphy would write for *Scream Queens*, but I think it's actually just "Supergirl" advertising itself.
 
 4\. "She's not strong enough." "Why? Because she's just a girl?" This is a first for me: the only instance I've seen in which calling it sexist is actually more sexist.
 
